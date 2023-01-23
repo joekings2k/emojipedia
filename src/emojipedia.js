@@ -1,4 +1,4 @@
-emojis = [
+const emojis = [
   {
     emoji: "🍑",
     name: "Peach",
@@ -18,3 +18,5 @@ emojis = [
       "Sticking out the tongue is a naughty gesture and a childish sign of defiance. Can be used to reinforce a joke or to tease and provoke. I am in a good mood and ready for jokes!",
   },
 ];
+
+export default emojis
